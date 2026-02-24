@@ -28,7 +28,7 @@ A secure Student Management System built using Java Servlets, JDBC, PostgreSQL, 
 3. Configure PostgreSQL database
 4. Run on Apache Tomcat Server
 5. Open browser:
-   http://localhost:8080/student-management-system
+   http://localhost:8081/student-management-system
 
 ## 👨‍💻 Author
 
